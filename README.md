@@ -1,4 +1,4 @@
 # test-repositiory
 
-This is a test
-Edit from local computer
+Git example
+Edit from Origin, Learning git!
